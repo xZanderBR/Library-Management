@@ -1,0 +1,5 @@
+Book "To Kill a Mockingbird" "Harper Lee" Fiction "01/01/1960" "978-06-112008-4" 1
+Book "1984" "George Orwell" Sci-Fi "01/01/1949" "978-452-28423-4" 1
+Periodical "National Geographic" "Various" Non-Fiction "01/01/2024" "978-11-123456-7" 1
+Audio "The Great Gatsby" "F. Scott Fitzgerald" Fiction "01/01/1925" "978-00-732443-8" 1
+Video "Jurassic Park" "Michael Crichton" Sci-Fi "01/01/1990" "978-345-48455-8" 1
